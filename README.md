@@ -143,10 +143,13 @@ while True:
 ## output:
 
 
+
 <img width="1918" height="1015" alt="Screenshot 2026-05-14 210430" src="https://github.com/user-attachments/assets/12bc075e-f895-4f6d-bd1e-95abd32ee0e3" />
 
 
+
 <img width="1915" height="1013" alt="Screenshot 2026-05-14 210448" src="https://github.com/user-attachments/assets/cbb3e60c-bc7d-4b1d-b7b8-9e69351efe25" />
+
 
 
 
@@ -162,6 +165,71 @@ Thus the study on Client Server Chat Applications has been performed
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
 
 
 
